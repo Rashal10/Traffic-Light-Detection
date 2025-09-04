@@ -88,12 +88,9 @@ RED:
 
 ---
 
-## 📹 Demo
+## 📹 Detection Demo
 
-A demo video (`output_annotated_improved.mp4`) is included in this repository.
-
-https://github.com/user-attachments/assets/24c9c3f8-48b8-4dde-8a87-dc222ad430b3
-
+A detection demo video (`output_annotated_improved.mp4`) is included in this repository.
 
 ---
 
